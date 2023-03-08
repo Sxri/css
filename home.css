@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Jost:wght@500&family=Manrope:wght@700&display=swap');
+
+/*
+ALL THE CURRENT FONTS IN A LIST:
+
+font-family: 'DM Sans', sans-serif; - description?
+font-family: 'Jost', sans-serif; -other (navbar?)
+font-family: 'Manrope', sans-serif; - title
+*/
+
+h1 {
+    font-family: 'Manrope', sans-serif;
+    
+}
