@@ -16,6 +16,7 @@ h1 {
     font-family: 'Manrope', sans-serif;
     font-size: 50px;
     color: white;
+    position: relative;
 }
 
 homepage-content{
@@ -27,8 +28,4 @@ homepage-content{
 	display: flex;
     height: 150px;
     width: 250px;
-	-webkit-box-orient: vertical;
-	-webkit-box-direction: normal;
-	-ms-flex-direction: column;
-	flex-direction: column
 }
